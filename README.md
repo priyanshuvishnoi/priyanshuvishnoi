@@ -1,16 +1,44 @@
-### Hi there 👋
+## Hi there 👋  ![](https://komarev.com/ghpvc/?username=priyanshuvishnoi)
 
-<!--
-**priyanshuvishnoi/priyanshuvishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/Priyanshu990">
+  <img align="left" alt="Priyanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/priyanshu-vishnoi-53b816169/">
+  <img align="left" alt="Priyanshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/priyanshuvishnoi">
+  <img align="left" alt="Priyanshu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+
+- 🔭 I’m currently working on NodeJS.
+- 🌱 I’m currently learning React Js and Flutter.
+- 👯 I’m looking to collaborate on LinkedIn.
+- 💬 Ask me about Python. 
+- 📫 How to reach me:  LinkedIn - [@PriyanshuVishnoi](https://www.linkedin.com/in/priyanshu-vishnoi-53b816169/)   Twitter - [@Priyanshu990](https://twitter.com/Priyanshu990) 
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: Wubba Lubba Dub Dub!
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+
+<a href="https://github.com/priyanshuvishnoi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuvishnoi&theme=dark&hide_langs_below=1&count_private=true" />
+</a>
+<a href="https://github.com/priyanshuvishnoi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuvishnoi&show_icons=true&theme=dracula&line_height=30&count_private=true" alt="Priyanshu's github stats"/>
+</a>
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
