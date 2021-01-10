@@ -42,7 +42,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuvishnoi&show_icons=true&theme=dark&line_height=22&count_private=true&v=2" alt="Priyanshu's github stats"/>
 </a>
 <a href="https://github.com/priyanshuvishnoi">
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshuvishnoi&theme=dark&v=2" alt="Priyanshu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshuvishnoi&theme=dark&v=2&layout=compact" alt="Priyanshu's github stats"/>
 </a>
 
 
