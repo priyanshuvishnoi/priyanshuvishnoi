@@ -15,8 +15,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on NodeJS and React Js.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on Angular and React Js.
+- 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 💬 Ask me about Python. 
 - 📫 How to reach me:  LinkedIn - [@PriyanshuVishnoi](https://www.linkedin.com/in/priyanshu-vishnoi-53b816169/)   Twitter - [@Priyanshu990](https://twitter.com/Priyanshu990) 
