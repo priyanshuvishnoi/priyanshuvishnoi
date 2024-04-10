@@ -20,7 +20,6 @@
 - 👯 I’m looking to collaborate on LinkedIn.
 - 💬 Ask me about Python. 
 - 📫 How to reach me:  LinkedIn - [@PriyanshuVishnoi](https://www.linkedin.com/in/priyanshu-vishnoi-53b816169/)   Twitter - [@Priyanshu990](https://twitter.com/Priyanshu990) 
-- 😄 Pronouns: He/His.
 - ⚡ Fun fact: A programmer is not a PC repairman!
 - 🌏 Website: [priyanshuvishnoi.dev](https://www.priyanshuvishnoi.dev)
 
